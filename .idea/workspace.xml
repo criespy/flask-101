@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7199db0-df88-47c5-bd44-ac65a97c9fd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYFugiX2eSNjVKYDu0nQjFGx2U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="flask-101" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="flask-101" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_app/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7199db0-df88-47c5-bd44-ac65a97c9fd7" name="Default Changelist" comment="" />
+      <created>1585008344166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585008344166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="307" width="604" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585289231792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="307" width="604" height="421" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585289231792" />
+    <state x="649" y="304" width="530" height="596" key="FileChooserDialogImpl" timestamp="1585029718090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="304" width="530" height="596" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585029718090" />
+    <state width="1895" height="250" key="GridCell.Tab.0.bottom" timestamp="1585217398352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1895" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585217398352" />
+    <state width="1895" height="250" key="GridCell.Tab.0.center" timestamp="1585217398352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1895" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585217398352" />
+    <state width="1895" height="250" key="GridCell.Tab.0.left" timestamp="1585217398352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1895" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585217398352" />
+    <state width="1895" height="250" key="GridCell.Tab.0.right" timestamp="1585217398352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1895" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585217398352" />
+    <state x="340" y="67" key="SettingsEditor" timestamp="1585029598493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="67" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585029598493" />
+    <state x="568" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1585326401332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585326401332" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1585269084906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585269084906" />
+  </component>
+</project>
